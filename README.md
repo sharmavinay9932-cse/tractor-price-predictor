@@ -33,16 +33,15 @@ The trained model is saved using **Pickle** and deployed through Streamlit.
 ```bash
 streamlit run app.py
 ```
-
 ## 📊 Results
 
 ### Model Result
 
-![Model Result](img1.png)
+![Model Result](./img1.png)
 
 ### Streamlit Application
 
-![Streamlit App](img2.png)
+![Streamlit App](./img2.png)
 
 ## 🛠️ Tech Stack
 
